@@ -1,9 +1,10 @@
 <h1 align="center">Hello World!</h1>
 <h3 align="center">I'm Ruben Mota 🧩 A passionate Full Stack Web Developer from Portugal 🇵🇹</h3>
 
-🌱 I’m currently working **improve my skills on Ruby, Ruby on Rails, CSS and JavaScript.**
 
-👨‍💻 All of my projects are available at [https://rubenmota95.github.io/profile/](https://rubenmota95.github.io/profile/)
+- I’m currently working **improve my skills on Ruby, Ruby on Rails, CSS and JavaScript. 🌱**
+
+- All of my projects are available at [https://rubenmota95.github.io/profile/](https://rubenmota95.github.io/profile/) 👨‍💻 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
