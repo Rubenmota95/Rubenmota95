@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ruben Mota</h1>
-<h3 align="center">A passionate Back-end developer from Portugal</h3>
+<h1 align="center">Hello World!</h1>
+<h3 align="center">I'm Ruben Mota, passionate Back-end developer from Portugal 🧩</h3>
 
 - 🌱 I’m currently working **improve my skills on Ruby, Ruby on Rails, CSS and JavaScript.**
 
