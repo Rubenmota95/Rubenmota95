@@ -1,4 +1,4 @@
-<h1 align="center">Hello World!  I'm Ruben Mota</h1>
+<h1 align="center">Hello World!  I'm Ruben Mota 🧩</h1>
 <h1 align="center">A passionate Full Stack Web Developer from Portugal 🇵🇹</h1> 
 
  ⚡ I've accumulated a strong foundation of knowledge in Ruby, Ruby on Rails, CSS, and JavaScript. These technologies have been integral parts of my journey, and I'm continuing to improve my expertise in them.
