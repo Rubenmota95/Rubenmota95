@@ -1,7 +1,7 @@
 <h1 align="center">Hello World!  I'm Ruben Mota 🧩</h1>
 <h1 align="center">A passionate Full Stack Web Developer from Portugal 🇵🇹</h1> 
 
- ⚡ I've accumulated a strong foundation of knowledge in Ruby, Ruby on Rails, CSS, and JavaScript. These technologies have been integral parts of my journey, and I'm continuing to improve my expertise in them.
+ ⚡ I've accumulated a strong foundation of knowledge in Ruby, JavaScript, Ruby on Rails, HTML and CSS. These technologies have been integral parts of my journey, and I'm continuing to improve my expertise in them.
 
 👨‍💻 You can check all my hardworking projects at my [Personal Profile](https://rubenmota95.github.io/)
 
