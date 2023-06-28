@@ -8,7 +8,7 @@
 
 📄 Know about my experiences in my [Resume (CV)](https://rubenmota.tiiny.site/) and feel free to check my Le Wagon Full-Stack Web Development [Certificate](https://kitt.lewagon.com/schoolings/30025/public_diploma?token=66c9e95d92c0f6d36b6f3f7670fa92f39f4730456cdce0991298ec38b161a84d)
 
-📫 If you have any doubts or need anything just reach me out on **rubenlisboa95@gmail.com**
+📫 If you have any doubt or just need anything reach me out on **rubenlisboa95@gmail.com**
 
 
 
