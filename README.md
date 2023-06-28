@@ -6,7 +6,7 @@
 👨‍💻 You can check all my hardworking projects at [Personal Profile](https://rubenmota95.github.io/)
 
 
-📄 Know about my experiences [Resume](https://rubenmota.tiiny.site/)
+📄 Know about my experiences [Resume (CV)](https://rubenmota.tiiny.site/)
 
 📫 If you have any doubts or need anything just reach me out on **rubenlisboa95@gmail.com**
 
