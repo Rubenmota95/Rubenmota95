@@ -3,7 +3,7 @@
 
  ⚡ I've accumulated a strong foundation of knowledge in Ruby, Ruby on Rails, CSS, and JavaScript. These technologies have been integral parts of my journey, and I'm continuing to improve my expertise in them.
 
-👨‍💻 You can check all my projects at [https://rubenmota95.github.io/profile/](https://rubenmota95.github.io/)
+👨‍💻 You can check all my hardworking projects at [https://rubenmota95.github.io/profile/](https://rubenmota95.github.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
