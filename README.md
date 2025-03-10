@@ -5,8 +5,6 @@
 
 👨‍💻 You can check some of my projects at my [Personal Profile](https://rubenmota95.github.io/)
 
-
-📄 Know about my experiences in my [Resume (CV)](https://rubencv.tiiny.site)
 📫 If you have any doubt or just need anything reach me out on **rubenlisboa95@gmail.com**
 
 
