@@ -1,13 +1,12 @@
 <h1 align="center">Hello World!  I'm Ruben Mota 🧩</h1>
-<h1 align="center">A passionate Junior Full Stack Web Developer from Portugal 🇵🇹</h1> 
+<h1 align="center">A Cybersecurity Technician from Portugal 🇵🇹</h1> 
 
- ⚡ I've accumulated a strong foundation of knowledge in Ruby, JavaScript, Ruby on Rails, HTML and CSS. These technologies have been integral parts of my journey, and I'm continuing to improve my expertise in them.
+ ⚡ I've accumulated a strong foundation of knowledge in Ruby, Python, JavaScript, SIEM Tools, Linux, Windows, SQL. These technologies have been integral parts of my journey, and I'm continuing to improve my expertise in them.
 
-👨‍💻 You can check all my hardworking projects at my [Personal Profile](https://rubenmota95.github.io/)
+👨‍💻 You can check some of my projects at my [Personal Profile](https://rubenmota95.github.io/)
 
 
-📄 Know about my experiences in my [Resume (CV)](https://rubenmota.tiiny.site/) and feel free to check my Le Wagon Full-Stack Web Development [Certificate](https://kitt.lewagon.com/schoolings/30025/public_diploma?token=66c9e95d92c0f6d36b6f3f7670fa92f39f4730456cdce0991298ec38b161a84d)
-
+📄 Know about my experiences in my [Resume (CV)](https://rubencv.tiiny.site)
 📫 If you have any doubt or just need anything reach me out on **rubenlisboa95@gmail.com**
 
 
