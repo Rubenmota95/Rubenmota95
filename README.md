@@ -1,7 +1,7 @@
 <h1 align="center">Hello World!  I'm Ruben Mota 🧩</h1>
 <h1 align="center">A Cybersecurity Technician from Portugal 🇵🇹</h1> 
 
- ⚡ I've accumulated a strong foundation of knowledge in Ruby, Python, JavaScript, SIEM Tools, Linux, Windows, SQL. These technologies have been integral parts of my journey, and I'm continuing to improve my expertise in them.
+ ⚡ I've accumulated a strong foundation of knowledge in Ruby, Python, JavaScript, SIEM Tools, Linux, Windows, SQL. <br> These technologies have been integral parts of my journey, and I'm continuing to improve my expertise in them.
 
 👨‍💻 You can check some of my projects at my [Personal Profile](https://rubenmota95.github.io/)
 
